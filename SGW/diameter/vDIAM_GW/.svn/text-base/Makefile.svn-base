@@ -1,0 +1,10 @@
+PROJECT = vdiam_gw
+PROJECT_DESCRIPTION = Viettel Diameter Gateway
+PROJECT_VERSION = 1.0
+
+DEPS = lager
+
+LOCAL_DEPS = crypto
+ERLC_OPTS = -W0
+
+include erlang.mk

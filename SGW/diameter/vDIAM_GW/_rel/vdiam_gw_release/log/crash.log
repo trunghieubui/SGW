@@ -1,0 +1,1500 @@
+2017-07-28 12:13:01 =ERROR REPORT====
+** Node 'vgtpc_gw@36.36.36.90' not responding **
+** Removing (timedout) connection **
+2017-07-28 12:13:01 =ERROR REPORT====
+** Node 'vdata_gw@36.36.36.90' not responding **
+** Removing (timedout) connection **
+2017-07-31 16:05:03 =ERROR REPORT====
+** Node 'vpgwcp2@36.36.36.80' not responding **
+** Removing (timedout) connection **
+2017-07-31 17:03:43 =ERROR REPORT====
+** Node 'vpgwcp2@36.36.36.80' not responding **
+** Removing (timedout) connection **
+2017-09-09 14:45:12 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:01:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:02:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:03:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:04:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:05:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:06:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:07:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:08:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:09:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:10:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:11:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:12:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:13:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:14:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:15:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:16:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:17:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:18:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:19:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:20:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:21:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:22:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:23:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:24:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:25:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:26:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:27:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:28:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:29:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:30:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:31:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:32:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:33:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:34:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:35:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:36:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:37:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:38:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:39:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:40:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:41:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:42:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:43:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:44:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:45:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:46:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:47:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:48:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:49:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:50:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:51:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:52:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:53:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:54:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:55:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:56:06 =ERROR REPORT====
+** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-10-06 14:21:41 =ERROR REPORT====
+[100,105,97,109,101,116,101,114,58,32,["failure",32,102,114,111,109,32,"peer_up",32,99,97,108,108,98,97,99,107],"\n",32,32,32,32,[123,["diam_callback",44,"peer_up",44,"2"],125],"\n"]
+2017-10-06 14:21:41 =SUPERVISOR REPORT====
+     Supervisor: {local,diameter_peer_fsm_sup}
+     Context:    child_terminated
+     Reason:     killed
+     Offender:   [{pid,<0.1143.0>},{id,diameter_peer_fsm},{mfargs,{diameter_peer_fsm,start_link,undefined}},{restart_type,temporary},{shutdown,1000},{child_type,worker}]
+
+2017-10-06 14:22:09 =ERROR REPORT====
+[100,105,97,109,101,116,101,114,58,32,["failure",32,102,114,111,109,32,"peer_up",32,99,97,108,108,98,97,99,107],"\n",32,32,32,32,[123,["diam_callback",44,"peer_up",44,"2"],125],"\n"]
+2017-10-06 14:22:10 =SUPERVISOR REPORT====
+     Supervisor: {local,diameter_peer_fsm_sup}
+     Context:    child_terminated
+     Reason:     killed
+     Offender:   [{pid,<0.1206.0>},{id,diameter_peer_fsm},{mfargs,{diameter_peer_fsm,start_link,undefined}},{restart_type,temporary},{shutdown,1000},{child_type,worker}]
+
+2017-10-06 14:22:39 =ERROR REPORT====
+[100,105,97,109,101,116,101,114,58,32,["failure",32,102,114,111,109,32,"peer_up",32,99,97,108,108,98,97,99,107],"\n",32,32,32,32,[123,["diam_callback",44,"peer_up",44,"2"],125],"\n"]
+2017-10-06 14:22:39 =SUPERVISOR REPORT====
+     Supervisor: {local,diameter_peer_fsm_sup}
+     Context:    child_terminated
+     Reason:     killed
+     Offender:   [{pid,<0.1211.0>},{id,diameter_peer_fsm},{mfargs,{diameter_peer_fsm,start_link,undefined}},{restart_type,temporary},{shutdown,1000},{child_type,worker}]
+
+2017-10-06 14:23:10 =ERROR REPORT====
+[100,105,97,109,101,116,101,114,58,32,["failure",32,102,114,111,109,32,"peer_up",32,99,97,108,108,98,97,99,107],"\n",32,32,32,32,[123,["diam_callback",44,"peer_up",44,"2"],125],"\n"]
+2017-10-06 14:23:10 =SUPERVISOR REPORT====
+     Supervisor: {local,diameter_peer_fsm_sup}
+     Context:    child_terminated
+     Reason:     killed
+     Offender:   [{pid,<0.1216.0>},{id,diameter_peer_fsm},{mfargs,{diameter_peer_fsm,start_link,undefined}},{restart_type,temporary},{shutdown,1000},{child_type,worker}]
+
+2017-10-06 15:00:47 =ERROR REPORT====
+ERROR: Could not find 'wxe_driver.so' in: /home/hieubt11/SGW_CP/Code_/vDIAM_GW/_rel/vdiam_gw_release/lib/wx-1.6.1/priv
+2017-10-06 15:00:47 =CRASH REPORT====
+  crasher:
+    initial call: wxe_master:init/1
+    pid: <0.1217.0>
+    registered_name: []
+    exception exit: {{{load_driver,"No driver found"},[{wxe_util,priv_dir,2,[{file,"wxe_util.erl"},{line,263}]},{wxe_master,init,1,[{file,"wxe_master.erl"},{line,107}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.1216.0>,observer,<0.714.0>]
+    messages: []
+    links: []
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 1598
+    stack_size: 27
+    reductions: 1129
+  neighbours:
+2017-10-06 15:00:47 =CRASH REPORT====
+  crasher:
+    initial call: wxe_server:init/1
+    pid: <0.1216.0>
+    registered_name: []
+    exception exit: {{{load_driver,"No driver found"},[{wxe_util,priv_dir,2,[{file,"wxe_util.erl"},{line,263}]},{wxe_master,init,1,[{file,"wxe_master.erl"},{line,107}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [observer,<0.714.0>]
+    messages: []
+    links: []
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 156
+  neighbours:
+2017-10-06 15:00:47 =CRASH REPORT====
+  crasher:
+    initial call: gen:init_it/6
+    pid: <0.1215.0>
+    registered_name: observer
+    exception exit: {{{load_driver,"No driver found"},[{wxe_server,start,1,[{file,"wxe_server.erl"},{line,65}]},{wx,new,1,[{file,"wx.erl"},{line,115}]},{observer_wx,init,1,[{file,"observer_wx.erl"},{line,96}]},{wx_object,init_it,6,[{file,"wx_object.erl"},{line,337}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{wx_object,init_it,6,[{file,"wx_object.erl"},{line,350}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.714.0>]
+    messages: []
+    links: []
+    dictionary: [{'_wx_object_',{observer_wx,'_wx_init_'}}]
+    trap_exit: false
+    status: running
+    heap_size: 1598
+    stack_size: 27
+    reductions: 218
+  neighbours:
+2017-10-06 15:24:04 =CRASH REPORT====
+  crasher:
+    initial call: gen:init_it/6
+    pid: <0.1197.0>
+    registered_name: []
+    exception exit: {{badarg,[{erlang,register,[observer,<0.1197.0>],[]},{observer_wx,init,1,[{file,"observer_wx.erl"},{line,95}]},{wx_object,init_it,6,[{file,"wx_object.erl"},{line,337}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{wx_object,init_it,6,[{file,"wx_object.erl"},{line,350}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.702.0>]
+    messages: []
+    links: []
+    dictionary: [{'_wx_object_',{observer_wx,'_wx_init_'}}]
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 117
+  neighbours:
+2017-10-07 11:28:01 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     ok
+     Offender:   [{pid,undefined},{id,diam_handler_in},{mfargs,{diam_handler_in,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 11:29:51 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.679.0>
+    registered_name: []
+    exception exit: {{function_clause,[{diam_handler_in,init,[null],[{file,"src/diameter/diam_handler_in.erl"},{line,46}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup_2,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.677.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 107
+  neighbours:
+2017-10-07 11:45:40 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{diam_sup,start_link,[diam_sup_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,temporary},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:03:31 =SUPERVISOR REPORT====
+     Supervisor: {local,pmip_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.684.0>}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 14:03:31 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.684.0>}}}
+     Offender:   [{pid,undefined},{id,pmip},{mfargs,{pmip_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:03:31 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,pmip,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.684.0>}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 132
+  neighbours:
+2017-10-07 14:10:50 =ERROR REPORT====
+** Generic server diam_handler_in terminating 
+** Last message in was {'$gen_cast',imp_normal_incoming}
+** When Server state == {state}
+** Reason for termination == 
+** {function_clause,[{diam_handler_in,terminate,[{bad_return_value,{normaly,{state}}},{state}],[{file,"src/diameter/diam_handler_in.erl"},{line,264}]},{gen_server,try_terminate,3,[{file,"gen_server.erl"},{line,643}]},{gen_server,terminate,7,[{file,"gen_server.erl"},{line,809}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+2017-10-07 14:10:50 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.681.0>
+    registered_name: diam_handler_in
+    exception exit: {{function_clause,[{diam_handler_in,terminate,[{bad_return_value,{normaly,{state}}},{state}],[{file,"src/diameter/diam_handler_in.erl"},{line,264}]},{gen_server,try_terminate,3,[{file,"gen_server.erl"},{line,643}]},{gen_server,terminate,7,[{file,"gen_server.erl"},{line,809}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,814}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.678.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 151
+  neighbours:
+2017-10-07 14:10:50 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup}
+     Context:    child_terminated
+     Reason:     {function_clause,[{diam_handler_in,terminate,[{bad_return_value,{normaly,{state}}},{state}],[{file,"src/diameter/diam_handler_in.erl"},{line,264}]},{gen_server,try_terminate,3,[{file,"gen_server.erl"},{line,643}]},{gen_server,terminate,7,[{file,"gen_server.erl"},{line,809}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,<0.681.0>},{id,diam_handler_in},{mfargs,{diam_handler_in,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 14:13:35 =ERROR REPORT====
+** Generic server diam_handler_in terminating 
+** Last message in was {'$gen_cast',imp_normal_incoming}
+** When Server state == {state}
+** Reason for termination == 
+** {function_clause,[{diam_handler_in,terminate,[{bad_return_value,{normaly,{state}}},{state}],[{file,"src/diameter/diam_handler_in.erl"},{line,52}]},{gen_server,try_terminate,3,[{file,"gen_server.erl"},{line,643}]},{gen_server,terminate,7,[{file,"gen_server.erl"},{line,809}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+2017-10-07 14:13:35 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.682.0>
+    registered_name: diam_handler_in
+    exception exit: {{function_clause,[{diam_handler_in,terminate,[{bad_return_value,{normaly,{state}}},{state}],[{file,"src/diameter/diam_handler_in.erl"},{line,52}]},{gen_server,try_terminate,3,[{file,"gen_server.erl"},{line,643}]},{gen_server,terminate,7,[{file,"gen_server.erl"},{line,809}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,814}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.678.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 151
+  neighbours:
+2017-10-07 14:13:35 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup}
+     Context:    child_terminated
+     Reason:     {function_clause,[{diam_handler_in,terminate,[{bad_return_value,{normaly,{state}}},{state}],[{file,"src/diameter/diam_handler_in.erl"},{line,52}]},{gen_server,try_terminate,3,[{file,"gen_server.erl"},{line,643}]},{gen_server,terminate,7,[{file,"gen_server.erl"},{line,809}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,<0.682.0>},{id,diam_handler_in},{mfargs,{diam_handler_in,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 14:15:03 =ERROR REPORT====
+** Generic server diam_handler_in terminating 
+** Last message in was {'$gen_cast',imp_normal_incoming}
+** When Server state == {state}
+** Reason for termination == 
+** {bad_return_value,{normaly,{state}}}
+2017-10-07 14:15:03 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.681.0>
+    registered_name: diam_handler_in
+    exception exit: {{bad_return_value,{normaly,{state}}},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,826}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.678.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 138
+  neighbours:
+2017-10-07 14:15:03 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup}
+     Context:    child_terminated
+     Reason:     {bad_return_value,{normaly,{state}}}
+     Offender:   [{pid,<0.681.0>},{id,diam_handler_in},{mfargs,{diam_handler_in,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 14:31:15 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{diam_sup,start_link,[diam_sup_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,temporary},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:31:15 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{'EXIT',{undef,[{diam_sup,start_link,[diam_sup_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:34:15 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.682.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,temporary},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:34:15 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.682.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:34:15 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.682.0>}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 133
+  neighbours:
+2017-10-07 14:39:00 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.682.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,temporary},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:39:00 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.682.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:41:11 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.679.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:41:11 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.679.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:42:14 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.677.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 14:42:14 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.677.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:42:14 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.677.0>}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 133
+  neighbours:
+2017-10-07 14:43:15 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.679.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,temporary},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:43:15 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.679.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:43:15 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.679.0>}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 133
+  neighbours:
+2017-10-07 14:44:36 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.678.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:44:36 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.678.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:51:51 =CRASH REPORT====
+  crasher:
+    initial call: supervisor:diam_pool_sup/1
+    pid: <0.677.0>
+    registered_name: []
+    exception exit: {{function_clause,[{supervisor,check_startspec,[0,[{child,undefined,diam_sup_1,{diam_sup,start_link,[]},permanent,5000,supervisor,[diam_sup]},{child,undefined,diam_sup_2,{diam_sup,start_link,[]},permanent,5000,supervisor,[diam_sup]}]],[{file,"supervisor.erl"},{line,1288}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,305}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.675.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 176
+  neighbours:
+2017-10-07 14:51:51 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {function_clause,[{supervisor,check_startspec,[0,[{child,undefined,diam_sup_1,{diam_sup,start_link,[]},permanent,5000,supervisor,[diam_sup]},{child,undefined,diam_sup_2,{diam_sup,start_link,[]},permanent,5000,supervisor,[diam_sup]}]],[{file,"supervisor.erl"},{line,1288}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,305}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:51:51 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{function_clause,[{supervisor,check_startspec,[0,[{child,undefined,diam_sup_1,{diam_sup,start_link,[]},permanent,5000,supervisor,[diam_sup]},{child,undefined,diam_sup_2,{diam_sup,start_link,[]},permanent,5000,supervisor,[diam_sup]}]],[{file,"supervisor.erl"},{line,1288}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,305}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 167
+  neighbours:
+2017-10-07 14:52:11 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {already_started,<0.683.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:52:11 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.683.0>}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:52:11 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.683.0>}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 133
+  neighbours:
+2017-10-07 14:55:15 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.685.0>}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 14:55:15 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 14:55:15 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:00:48 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.684.0>}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:00:48 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.684.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:01:31 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:01:31 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:01:31 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,gtpmhandle,{'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:01:31 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,gtpmhandle,{'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 173
+  neighbours:
+2017-10-07 15:03:40 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.685.0>}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:03:40 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:03:40 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:03:40 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 125
+  neighbours:
+2017-10-07 15:05:59 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.685.0>}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:05:59 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:05:59 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:05:59 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.685.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 125
+  neighbours:
+2017-10-07 15:06:58 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{diam_sup,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,pool_sup},{mfargs,{diam_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:06:58 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,pool_sup,{'EXIT',{undef,[{diam_sup,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:07:33 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.684.0>}
+     Offender:   [{pid,undefined},{id,gtpmhandle},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:07:33 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.684.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:07:33 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.684.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:07:33 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,gtpmhandle,{already_started,<0.684.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 125
+  neighbours:
+2017-10-07 15:41:04 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {already_started,<0.680.0>}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:41:04 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.680.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:41:04 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,diam_sup_1,{already_started,<0.680.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:41:47 =ERROR REPORT====
+** Generic server <0.699.0> terminating 
+** Last message in was {'$gen_cast',{gx_cca_send_to_pgwcp,{diameter_base_CCA,"diam_session;1559632244;3;vemu_pcrf@29.19.19.130",16777238,"pcrf.epc.mnc004.mcc452.3gppnetwork.org","epc.mnc004.mcc452.3gppnetwork.org",[2001],[],[1],[0],[{'diameter_base_Supported-Features',10415,1,3,[]}],[],[7,2,26,13,17],[],[],[],[],[],[],[{'diameter_base_Charging-Rule-Install',[{'diameter_base_Charging-Rule-Definition',["Default PCC Rule"],[2],[2],[{'diameter_base_Flow-Information',["permit out ip from any to any"],["1"],[1],[],[],[],[1],[]}],[],[2],[{'diameter_base_QoS-Information',"\b",[],[],[],[],[],[{'diameter_base_Allocation-Retention-Priority',[5],[1],[0]}],[],[],[]}],[],[],[0],[0],[2],[5],[],[],[],[],[],[],[],[],[],[]}],[],[],[],[],[],[],[]}],[],[1],[0],[],[{{2017,10,7},{19,42,47}}],[],[0],[{'diameter_base_Usage-Monitoring-Information',["100"],[{'diameter_base_Granted-Service-Unit',[],[],[],[15728640],[],[],[],[]}],[],[1],[],[],[]}],[],[],[],[],[],[],[],[]}}}
+** When Server state == {state}
+** Reason for termination == 
+** {bad_return_value,{normaly,{state}}}
+2017-10-07 15:41:47 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.699.0>
+    registered_name: []
+    exception exit: {{bad_return_value,{normaly,{state}}},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,826}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup_1,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.682.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 180
+  neighbours:
+2017-10-07 15:41:47 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    child_terminated
+     Reason:     {bad_return_value,{normaly,{state}}}
+     Offender:   [{pid,<0.699.0>},{id,"diam_in_1507405307754304964"},{mfargs,{diam_handler_in,start_link,undefined}},{restart_type,temporary},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:43:34 =ERROR REPORT====
+** Generic server <0.699.0> terminating 
+** Last message in was {'$gen_cast',{gx_cca_send_to_pgwcp,{diameter_base_CCA,"diam_session;1559632244;3;vemu_pcrf@29.19.19.130",16777238,"pcrf.epc.mnc004.mcc452.3gppnetwork.org","epc.mnc004.mcc452.3gppnetwork.org",[2001],[],[1],[0],[{'diameter_base_Supported-Features',10415,1,3,[]}],[],[7,2,26,13,17],[],[],[],[],[],[],[{'diameter_base_Charging-Rule-Install',[{'diameter_base_Charging-Rule-Definition',["Default PCC Rule"],[2],[2],[{'diameter_base_Flow-Information',["permit out ip from any to any"],["1"],[1],[],[],[],[1],[]}],[],[2],[{'diameter_base_QoS-Information',"\b",[],[],[],[],[],[{'diameter_base_Allocation-Retention-Priority',[5],[1],[0]}],[],[],[]}],[],[],[0],[0],[2],[5],[],[],[],[],[],[],[],[],[],[]}],[],[],[],[],[],[],[]}],[],[1],[0],[],[{{2017,10,7},{19,44,34}}],[],[0],[{'diameter_base_Usage-Monitoring-Information',["100"],[{'diameter_base_Granted-Service-Unit',[],[],[],[15728640],[],[],[],[]}],[],[1],[],[],[]}],[],[],[],[],[],[],[],[]}}}
+** When Server state == {state}
+** Reason for termination == 
+** {bad_return_value,{normaly,{state}}}
+2017-10-07 15:43:34 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.699.0>
+    registered_name: []
+    exception exit: {{bad_return_value,{normaly,{state}}},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,826}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup_1,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.677.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 180
+  neighbours:
+2017-10-07 15:43:34 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    child_terminated
+     Reason:     {bad_return_value,{normaly,{state}}}
+     Offender:   [{pid,<0.699.0>},{id,"diam_in_1507405414888023005"},{mfargs,{diam_handler_in,start_link,undefined}},{restart_type,temporary},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:47:03 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {already_started,<0.684.0>}
+     Offender:   [{pid,undefined},{id,process_1},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:47:03 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_1,{already_started,<0.684.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:47:03 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,process_1,{already_started,<0.684.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:47:03 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,process_1,{already_started,<0.684.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 124
+  neighbours:
+2017-10-07 15:48:06 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {already_started,<0.683.0>}
+     Offender:   [{pid,undefined},{id,process_1},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:48:06 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_1,{already_started,<0.683.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:48:06 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,process_1,{already_started,<0.683.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:48:06 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,process_1,{already_started,<0.683.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 123
+  neighbours:
+2017-10-07 15:57:41 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {already_started,<0.683.0>}
+     Offender:   [{pid,undefined},{id,process_1},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 15:57:41 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_1,{already_started,<0.683.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:57:41 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,process_1,{already_started,<0.683.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 15:57:41 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,{shutdown,{failed_to_start_child,process_1,{already_started,<0.683.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 135
+  neighbours:
+2017-10-07 16:01:54 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{pmip_receive_handle,start_link,[process_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,process_2},{mfargs,{pmip_receive_handle,start_link,[process_2]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 16:01:54 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_2,{'EXIT',{undef,[{pmip_receive_handle,start_link,[process_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:02:48 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_2}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{pmip_receive_handle,start_link,[process_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,process_2},{mfargs,{pmip_receive_handle,start_link,[process_2]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 16:02:48 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_2,{'EXIT',{undef,[{pmip_receive_handle,start_link,[process_2],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:13:35 =CRASH REPORT====
+  crasher:
+    initial call: supervisor:diam_sup/1
+    pid: <0.682.0>
+    registered_name: []
+    exception exit: {{bad_return,{diam_sup,init,[{ok,{{one_for_one,1,5},{process_2,{pmip_receive_handle,start_link,[process_2]},permanent,5000,worker,[pmip_receive_handle]}}},{ok,{{one_for_one,1,5},{process_1,{pmip_receive_handle,start_link,[process_1]},permanent,5000,worker,[pmip_receive_handle]}}}]}},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,344}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.679.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 163
+  neighbours:
+2017-10-07 16:17:05 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_2
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:17:05 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:17:46 =CRASH REPORT====
+  crasher:
+    initial call: supervisor:diam_sup/1
+    pid: <0.682.0>
+    registered_name: []
+    exception exit: {{badarg,[{io,format,[<0.663.0>,"Name",['1507407466018965798']],[]},{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,102}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.676.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 151
+  neighbours:
+2017-10-07 16:17:46 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_2
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:17:46 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:17:46 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 126
+  neighbours:
+2017-10-07 16:18:27 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_2
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:18:27 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:18:27 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 129
+  neighbours:
+2017-10-07 16:20:50 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_2
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:20:50 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:20:50 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 129
+  neighbours:
+2017-10-07 16:25:03 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_2
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:25:03 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:25:03 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,diam_sup_2}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 129
+  neighbours:
+2017-10-07 16:29:34 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_1
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:29:34 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:29:34 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: []
+    links: [<0.662.0>,<0.664.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 127
+  neighbours:
+2017-10-07 16:31:32 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_1
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:31:32 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:31:32 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 127
+  neighbours:
+2017-10-07 16:32:38 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_1
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:32:38 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:32:38 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: []
+    links: [<0.662.0>,<0.664.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 127
+  neighbours:
+2017-10-07 16:33:46 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     diam_sup_1
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:33:46 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:33:46 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,diam_sup_1}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 119
+  neighbours:
+2017-10-07 16:34:29 =ERROR REPORT====
+** Generic server <0.699.0> terminating 
+** Last message in was {'$gen_cast',{gx_cca_send_to_pgwcp,{diameter_base_CCA,"diam_session;1559632244;3;vemu_pcrf@29.19.19.130",16777238,"pcrf.epc.mnc004.mcc452.3gppnetwork.org","epc.mnc004.mcc452.3gppnetwork.org",[2001],[],[1],[0],[{'diameter_base_Supported-Features',10415,1,3,[]}],[],[7,2,26,13,17],[],[],[],[],[],[],[{'diameter_base_Charging-Rule-Install',[{'diameter_base_Charging-Rule-Definition',["Default PCC Rule"],[2],[2],[{'diameter_base_Flow-Information',["permit out ip from any to any"],["1"],[1],[],[],[],[1],[]}],[],[2],[{'diameter_base_QoS-Information',"\b",[],[],[],[],[],[{'diameter_base_Allocation-Retention-Priority',[5],[1],[0]}],[],[],[]}],[],[],[0],[0],[2],[5],[],[],[],[],[],[],[],[],[],[]}],[],[],[],[],[],[],[]}],[],[1],[0],[],[{{2017,10,7},{20,35,29}}],[],[0],[{'diameter_base_Usage-Monitoring-Information',["100"],[{'diameter_base_Granted-Service-Unit',[],[],[],[15728640],[],[],[],[]}],[],[1],[],[],[]}],[],[],[],[],[],[],[],[]}}}
+** When Server state == {state}
+** Reason for termination == 
+** {bad_return_value,{normaly,{state}}}
+2017-10-07 16:34:29 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.699.0>
+    registered_name: []
+    exception exit: {{bad_return_value,{normaly,{state}}},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,826}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup_1,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.679.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 180
+  neighbours:
+2017-10-07 16:34:29 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    child_terminated
+     Reason:     {bad_return_value,{normaly,{state}}}
+     Offender:   [{pid,<0.699.0>},{id,"diam_in_1507408469127791532"},{mfargs,{diam_handler_in,start_link,undefined}},{restart_type,temporary},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 16:35:19 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.683.0>}
+     Offender:   [{pid,undefined},{id,process_519},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 16:35:19 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_519,{already_started,<0.683.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:35:19 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,process_519,{already_started,<0.683.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:35:19 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,process_519,{already_started,<0.683.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 128
+  neighbours:
+2017-10-07 16:36:55 =CRASH REPORT====
+  crasher:
+    initial call: supervisor:diam_sup/1
+    pid: <0.678.0>
+    registered_name: []
+    exception exit: {{function_clause,[{diam_sup,get_diam_name,[undefined],[{file,"src/diameter/diam_sup.erl"},{line,112}]},{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,101}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.677.0>]
+    dictionary: [{random_seed,{1508,14638,16554}}]
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 142
+  neighbours:
+2017-10-07 16:36:55 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {function_clause,[{diam_sup,get_diam_name,[undefined],[{file,"src/diameter/diam_sup.erl"},{line,112}]},{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,101}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:36:55 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_2,{function_clause,[{diam_sup,get_diam_name,[undefined],[{file,"src/diameter/diam_sup.erl"},{line,112}]},{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,101}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:36:55 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_2,{function_clause,[{diam_sup,get_diam_name,[undefined],[{file,"src/diameter/diam_sup.erl"},{line,112}]},{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,101}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 179
+  neighbours:
+2017-10-07 16:37:57 =CRASH REPORT====
+  crasher:
+    initial call: supervisor:diam_sup/1
+    pid: <0.678.0>
+    registered_name: []
+    exception exit: {{{badmatch,undefined},[{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,100}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]},[{gen_server,init_it,6,[{file,"gen_server.erl"},{line,352}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.676.0>]
+    dictionary: [{random_seed,{1508,14700,18600}}]
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 134
+  neighbours:
+2017-10-07 16:37:57 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {{badmatch,undefined},[{diam_sup,init,1,[{file,"src/diameter/diam_sup.erl"},{line,100}]},{supervisor,init,1,[{file,"supervisor.erl"},{line,287}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+     Offender:   [{pid,undefined},{id,diam_sup_2},{mfargs,{diam_sup,start_link,[diam_sup_2]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:42:36 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.683.0>}
+     Offender:   [{pid,undefined},{id,process_847713},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 16:42:36 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_847713,{already_started,<0.683.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 16:45:14 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {already_started,<0.683.0>}
+     Offender:   [{pid,undefined},{id,process_416252},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 16:45:14 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,process_416252,{already_started,<0.683.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 17:10:56 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    start_error
+     Reason:     {'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}
+     Offender:   [{pid,undefined},{id,pmip},{mfargs,{pmip_receive_handle,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 17:10:56 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,pmip,{'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}
+     Offender:   [{pid,undefined},{id,diam_sup_1},{mfargs,{diam_sup,start_link,[diam_sup_1]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 17:10:56 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,pmip,{'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 17:10:56 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_1,{shutdown,{failed_to_start_child,pmip,{'EXIT',{undef,[{pmip_receive_handle,start_link,[],[]},{supervisor,do_start_child,2,[{file,"supervisor.erl"},{line,358}]},{supervisor,start_children,3,[{file,"supervisor.erl"},{line,341}]},{supervisor,init_children,2,[{file,"supervisor.erl"},{line,307}]},{gen_server,init_it,6,[{file,"gen_server.erl"},{line,328}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 139
+  neighbours:
+2017-10-07 17:13:23 =ERROR REPORT====
+** Generic server <0.699.0> terminating 
+** Last message in was {'$gen_cast',{gx_cca_send_to_pgwcp,{diameter_base_CCA,"diam_session;1559632244;3;vemu_pcrf@29.19.19.130",16777238,"pcrf.epc.mnc004.mcc452.3gppnetwork.org","epc.mnc004.mcc452.3gppnetwork.org",[2001],[],[1],[0],[{'diameter_base_Supported-Features',10415,1,3,[]}],[],[7,2,26,13,17],[],[],[],[],[],[],[{'diameter_base_Charging-Rule-Install',[{'diameter_base_Charging-Rule-Definition',["Default PCC Rule"],[2],[2],[{'diameter_base_Flow-Information',["permit out ip from any to any"],["1"],[1],[],[],[],[1],[]}],[],[2],[{'diameter_base_QoS-Information',"\b",[],[],[],[],[],[{'diameter_base_Allocation-Retention-Priority',[5],[1],[0]}],[],[],[]}],[],[],[0],[0],[2],[5],[],[],[],[],[],[],[],[],[],[]}],[],[],[],[],[],[],[]}],[],[1],[0],[],[{{2017,10,7},{21,14,23}}],[],[0],[{'diameter_base_Usage-Monitoring-Information',["100"],[{'diameter_base_Granted-Service-Unit',[],[],[],[15728640],[],[],[],[]}],[],[1],[],[],[]}],[],[],[],[],[],[],[],[]}}}
+** When Server state == {state}
+** Reason for termination == 
+** {bad_return_value,{normaly,{state}}}
+2017-10-07 17:13:23 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.699.0>
+    registered_name: []
+    exception exit: {{bad_return_value,{normaly,{state}}},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,826}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup_1,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.678.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 180
+  neighbours:
+2017-10-07 17:13:23 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    child_terminated
+     Reason:     {bad_return_value,{normaly,{state}}}
+     Offender:   [{pid,<0.699.0>},{id,"diam_in_1507410803736134786"},{mfargs,{diam_handler_in,start_link,undefined}},{restart_type,temporary},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 17:37:24 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_7}
+     Context:    start_error
+     Reason:     {already_started,<0.684.0>}
+     Offender:   [{pid,undefined},{id,pmip},{mfargs,{pmip_receive_handle,start_link,[pmip]}},{restart_type,permanent},{shutdown,5000},{child_type,worker}]
+
+2017-10-07 17:37:24 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_pool_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,pmip,{already_started,<0.684.0>}}}
+     Offender:   [{pid,undefined},{id,diam_sup_7},{mfargs,{diam_sup,start_link,[diam_sup_7]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 17:37:24 =SUPERVISOR REPORT====
+     Supervisor: {local,vdiam_gw_sup}
+     Context:    start_error
+     Reason:     {shutdown,{failed_to_start_child,diam_sup_7,{shutdown,{failed_to_start_child,pmip,{already_started,<0.684.0>}}}}}
+     Offender:   [{pid,undefined},{id,diam_pool_sup},{mfargs,{diam_pool_sup,start_link,[]}},{restart_type,permanent},{shutdown,5000},{child_type,supervisor}]
+
+2017-10-07 17:37:24 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{{shutdown,{failed_to_start_child,diam_pool_sup,{shutdown,{failed_to_start_child,diam_sup_7,{shutdown,{failed_to_start_child,pmip,{already_started,<0.684.0>}}}}}}},{vdiam_gw_app,start,[normal,[]]}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 610
+    stack_size: 27
+    reductions: 128
+  neighbours:
+2017-10-07 17:39:01 =ERROR REPORT====
+** Generic server <0.699.0> terminating 
+** Last message in was {'$gen_cast',{gx_cca_send_to_pgwcp,{diameter_base_CCA,"diam_session;1559632244;3;vemu_pcrf@29.19.19.130",16777238,"pcrf.epc.mnc004.mcc452.3gppnetwork.org","epc.mnc004.mcc452.3gppnetwork.org",[2001],[],[1],[0],[{'diameter_base_Supported-Features',10415,1,3,[]}],[],[7,2,26,13,17],[],[],[],[],[],[],[{'diameter_base_Charging-Rule-Install',[{'diameter_base_Charging-Rule-Definition',["Default PCC Rule"],[2],[2],[{'diameter_base_Flow-Information',["permit out ip from any to any"],["1"],[1],[],[],[],[1],[]}],[],[2],[{'diameter_base_QoS-Information',"\b",[],[],[],[],[],[{'diameter_base_Allocation-Retention-Priority',[5],[1],[0]}],[],[],[]}],[],[],[0],[0],[2],[5],[],[],[],[],[],[],[],[],[],[]}],[],[],[],[],[],[],[]}],[],[1],[0],[],[{{2017,10,7},{21,40,1}}],[],[0],[{'diameter_base_Usage-Monitoring-Information',["100"],[{'diameter_base_Granted-Service-Unit',[],[],[],[15728640],[],[],[],[]}],[],[1],[],[],[]}],[],[],[],[],[],[],[],[]}}}
+** When Server state == {state}
+** Reason for termination == 
+** {bad_return_value,{normaly,{state}}}
+2017-10-07 17:39:01 =CRASH REPORT====
+  crasher:
+    initial call: diam_handler_in:init/1
+    pid: <0.699.0>
+    registered_name: []
+    exception exit: {{bad_return_value,{normaly,{state}}},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,826}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [diam_sup_1,diam_pool_sup,vdiam_gw_sup,vdiam_gw_app]
+    messages: []
+    links: [<0.677.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 987
+    stack_size: 27
+    reductions: 180
+  neighbours:
+2017-10-07 17:39:01 =SUPERVISOR REPORT====
+     Supervisor: {local,diam_sup_1}
+     Context:    child_terminated
+     Reason:     {bad_return_value,{normaly,{state}}}
+     Offender:   [{pid,<0.699.0>},{id,"diam_in_1507412341679264020"},{mfargs,{diam_handler_in,start_link,undefined}},{restart_type,temporary},{shutdown,5000},{child_type,worker}]
+
+2017-10-08 06:24:06 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.661.0>
+    registered_name: []
+    exception exit: {{bad_return,{{vdiam_gw_app,start,[normal,[]]},ok}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.660.0>]
+    messages: [{'EXIT',<0.662.0>,normal}]
+    links: [<0.660.0>,<0.584.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 115
+  neighbours:

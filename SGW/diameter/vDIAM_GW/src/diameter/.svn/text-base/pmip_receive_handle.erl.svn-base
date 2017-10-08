@@ -1,0 +1,93 @@
+%% @author Tran Huy Cuong<cuongth142@viettel.com.vn>%%
+%% @doc gtp_db_util module.
+%% @reference <a href="http://www.viettel.com.vn">Viettel EPC</a>.
+%% @copyright 2017 Viettel
+
+-module(pmip_receive_handle).
+-author("cuongth142").
+-behaviour(gen_server).
+-include("logger.hrl").
+-include("constant.hrl").
+
+-export([start_link/0, stop/0]).
+-export([init/1, handle_call/4, handle_cast/2, handle_info/2, terminate/2, send_udp/4]).
+-record(state, {sn = 0}).
+
+start_link() ->
+    ?PMIP_DEBUG(" pmip_receive_handle start_link ~n", []),
+    gen_server:start_link({local, ?MODULE}, ?MODULE, null, []).
+
+stop() ->
+    gen_server:cast(?MODULE, stop).
+
+init(_Params) ->
+    {ok, #state{}}.
+
+terminate(Reason, {server, Sock}) ->
+    ?PMIP_DEBUG("Terminate Reason:~p~n", [Reason]),
+    ok.
+
+handle_cast({cast_udp, Bin}, State = #state{}) ->
+    try
+        ?PMIP_NOTICE("receive Msg pmip ~n", []),
+        [{StatisticReqest, RequestNumber}] = ets:lookup(statistic_request_number, request_number),
+        ets:insert(statistic_request_number, {request_number, RequestNumber + 1}),
+
+        PmipProcessName = string:concat("PMIP", RequestNumber),
+        [{ok, PmipPidValue}, DataIndex] = pmip_fsm_sup:start_child(PmipProcessName),
+        util_converter:async_msg_to_fsm(self(), PmipPidValue, {Bin, DataIndex, PmipProcessName}),
+        {noreply, State}
+    catch
+        _:Err ->
+            alarm_util:send_alarm(?ALARM_ID_EXCEPTION, ?ALARM_LEVEL_CRITICAL, "Exception in handle_info"),
+            ?PMIP_WARNING("Exception in handle_info:~p~p~n", [Err, erlang:get_stacktrace()])
+    end;
+
+handle_cast(Msg, State) ->
+    ?PMIP_NOTICE("receive Msg:~p ", [Msg]),
+    {noreply, State}.
+
+
+%{stop, normal, {server, Sock}}.
+handle_info({udp, Client, Ip, Port, Msg}, LoopData) ->
+    try
+        [{StatisticReqest, RequestNumber}] = ets:lookup(statistic_request_mme, request_number),
+        ets:insert(statistic_request_mme, {request_number, RequestNumber + 1}),
+        PmipProcessName = string:concat("PMIP", RequestNumber),
+        [{ok, PmipPidValue}, DataIndex] = pmip_fsm_sup:start_child(PmipProcessName),
+        util_converter:async_msg_to_fsm(self(), PmipPidValue, {Msg, Client, Ip, Port, DataIndex, PmipProcessName}),
+        {noreply, LoopData}
+    catch
+        _:Err ->
+            alarm_util:send_alarm(?ALARM_ID_EXCEPTION, ?ALARM_LEVEL_CRITICAL, "Exception in handle_info"),
+            ?PMIP_WARNING("Exception in handle_info:~p~p~n", [Err, erlang:get_stacktrace()])
+    end;
+
+handle_info(Msg, LoopData) ->
+    ?PMIP_NOTICE("receive info ~p~n", [Msg]),
+    {noreply, LoopData}.
+
+handle_call({get_status}, _From, State, DestPort) ->
+    {reply, State, State};
+handle_call(Msg, _Form, State, DestPort) ->
+    ?PMIP_WARNING("received unexpected call: ~p", [Msg]),
+    {noreply, State}.
+
+send_udp({Msg, MsgName}, _From, To, DestPort) ->
+    try
+        Socket = ets:lookup_element(pgw_udp, pgw_sock, 2),
+        ?PMIP_NOTICE("===============Send message: ~p to: ~p================================~n", [MsgName, To]),
+        case gen_udp:send(Socket, To, DestPort, Msg) of
+            {error, Reason} ->
+                ?PMIP_ERROR("Can't send: ~w!", [Reason]),
+                {error};
+            _ ->
+                ?PMIP_NOTICE("===========================================Send completed!=============================================", []),
+                ?PMIP_NOTICE("*******************************************************************************************************", [])
+        end,
+        {reply, ok, {server, Socket}}
+    catch
+        _:Err ->
+            alarm_util:send_alarm(?ALARM_ID_EXCEPTION, ?ALARM_LEVEL_CRITICAL, "Exception in parse_pmip_msg"),
+            ?PMIP_WARNING("Exception in parse_pmip_msg:~p~p~n", [Err, erlang:get_stacktrace()])
+    end.

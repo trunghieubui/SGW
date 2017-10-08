@@ -1,0 +1,156 @@
+%%%-------------------------------------------------------------------
+%%% @author thanhdoan
+%%% @copyright (C) 2017, <COMPANY>
+%%% @doc
+%%%
+%%% @end
+%%% Created : 09. Jun 2017 8:57 AM
+%%%-------------------------------------------------------------------
+-module(diam_start).
+-author("thanhdoan").
+%% Include libarary
+-include_lib("diameter/include/diameter.hrl").
+-include_lib("diameter/include/diameter_gen_base_gx.hrl").
+-include_lib("diameter/include/diameter_gen_base_gy.hrl").
+-include("constant.hrl").
+-include("logger.hrl").
+-include("define_kpi.hrl").
+
+%% API
+-export([test/0, diameter_gx_start/0, diameter_gy_start/0]).
+
+test() ->
+   io:format("abcdef").
+   
+
+diameter_gx_start() ->
+    try
+        ?LOG_DEBUG("Diameter Gx starting...", []),
+
+        %% For local node
+        Gx_Diam_Bind_IP_Addr = common_util:ip_to_string(config_util:get_config_value(diam_gx_bind_ip_addr)),
+        Origin_Realm = config_util:get_config_value(origin_realm),
+        Origin_Host_Gx = config_util:get_config_value(origin_host_gx),
+
+        %% For Remote node
+        Pcrf_IP_Addr = common_util:ip_to_string(config_util:get_config_value(pcrf_ip_addr)),
+        Pcrf_Port = config_util:get_config_value(pcrf_port),
+
+        %% For PCRF
+        Gx_Transport =
+            case config_util:get_config_value(diam_transport_gx_tcp) of
+                1 ->
+                    diameter_tcp;
+                _ ->
+                    diameter_sctp
+            end,
+
+        SvcGxOpts = [
+            {'Origin-Host', Origin_Host_Gx},
+            {'Origin-Realm', Origin_Realm},
+            {'Vendor-Id', ?DIAM_VENDOR_ID},
+            {'Product-Name', ?DIAM_PRODUCT_NAME},
+            {'Auth-Application-Id', [?DIAM_APP_ID_GX]},
+            {'Vendor-Specific-Application-Id', [#'diameter_base_Vendor-Specific-Application-Id'{
+                'Vendor-Id' = [?DIAM_VENDOR_ID],
+                'Auth-Application-Id' = [?DIAM_APP_ID_GX]}]},
+            {application, [{alias, diameter_base_app},
+                {dictionary, ?DIAM_DICT_GX},
+                {module, ?DIAM_CALLBACK}
+            ]}],
+
+        %% Check enable PCRF
+        if
+            ?BY_PASS_PCRF =:= 1 ->
+                ?LOG_NOTICE("By pass, not connect to PCRF: [~s:~p]", [Pcrf_IP_Addr, Pcrf_Port]);
+            true ->
+                ?LOG_NOTICE("Connecting to PCRF: [~s:~p]", [Pcrf_IP_Addr, Pcrf_Port]),
+
+                TransportGxOpts = [
+                    {transport_module, Gx_Transport},
+                    {reconnect_timer, 2000},
+                    {capx_timeout, 2000},
+                    {transport_config, [
+                        {reuseaddr, true},
+                        %% Remote Address
+                        {raddr, Pcrf_IP_Addr},
+                        %% Local Address
+                        {ip, Gx_Diam_Bind_IP_Addr},
+                        %% Remote Port
+                        {rport, Pcrf_Port}]}],
+                diameter:start_service(?DIAM_HANDLER_GX, SvcGxOpts),
+		?LOG_DEBUG("Check 1 ~p",[SvcGxOpts]),
+                ?LOG_DEBUG("Check 2 ~p~n",[?DIAM_HANDLER_GX]),
+                ?LOG_DEBUG("TransportGxOpts:~p~n",[TransportGxOpts]),
+                diameter:add_transport(?DIAM_HANDLER_GX, {connect, TransportGxOpts}),
+		?LOG_DEBUG("Check 3 ~p",[TransportGxOpts])
+        end
+    catch
+        _:Err ->
+            alarm_util:send_alarm(?ALARM_ID_EXCEPTION, ?ALARM_LEVEL_CRITICAL, "Exception in diameter_gx_start"),
+            ?LOG_ERROR("Exception in diameter_gx_start: ~p ~p", [Err, erlang:get_stacktrace()])
+    end.
+
+diameter_gy_start() ->
+    try
+        ?LOG_DEBUG("Diameter Gy starting...", []),
+
+        %% For local node
+        Gy_Diam_Bind_IP_Addr = common_util:ip_to_string(config_util:get_config_value(diam_gy_bind_ip_addr)),
+        Origin_Realm = config_util:get_config_value(origin_realm),
+        Origin_Host_Gy = config_util:get_config_value(origin_host_gy),
+
+        %% For Remote node
+        OCS_IP_Addr = common_util:ip_to_string(config_util:get_config_value(ocs_ip_addr)),
+        OCS_Port = config_util:get_config_value(ocs_port),
+
+        %% For OCS
+        Gy_Transport =
+            case config_util:get_config_value(diam_transport_gy_tcp) of
+                1 ->
+                    diameter_tcp;
+                _ ->
+                    diameter_sctp
+            end,
+
+        SvcGyOpts = [
+            {'Origin-Host', Origin_Host_Gy},
+            {'Origin-Realm', Origin_Realm},
+            {'Vendor-Id', ?DIAM_VENDOR_ID},
+            {'Product-Name', ?DIAM_PRODUCT_NAME},
+            {'Auth-Application-Id', [?DIAM_APP_ID_GY]},
+            {'Vendor-Specific-Application-Id', [#'diameter_base_Vendor-Specific-Application-Id'{
+                'Vendor-Id' = [?DIAM_VENDOR_ID],
+                'Auth-Application-Id' = [?DIAM_APP_ID_GY]}]},
+            {application, [{alias, diameter_base_app},
+                {dictionary, ?DIAM_DICT_GY},
+                {module, ?DIAM_CALLBACK}
+            ]}],
+
+        %% Check enable OCS
+        if
+            ?BY_PASS_OCS =:= 1 ->
+                ?LOG_NOTICE("By pass, not connect to OCS: [~s:~p]", [OCS_IP_Addr, OCS_Port]);
+            true ->
+                ?LOG_NOTICE("Connecting to OCS: [~s:~p]", [OCS_IP_Addr, OCS_Port]),
+
+                TransportGyOpts = [
+                    {transport_module, Gy_Transport},
+                    {reconnect_timer, 2000},
+                    {capx_timeout, 2000},
+                    {transport_config, [
+                        {reuseaddr, true},
+                        %% Remote Address
+                        {raddr, OCS_IP_Addr},
+                        %% Local Address
+                        {ip, Gy_Diam_Bind_IP_Addr},
+                        %% Remote Port
+                        {rport, OCS_Port}]}],
+                diameter:start_service(?DIAM_HANDLER_GY, SvcGyOpts),
+                diameter:add_transport(?DIAM_HANDLER_GY, {connect, TransportGyOpts})
+        end
+    catch
+        _:Err ->
+            alarm_util:send_alarm(?ALARM_ID_EXCEPTION, ?ALARM_LEVEL_CRITICAL, "Exception in diameter_gy_start"),
+            ?LOG_ERROR("Exception in diameter_gy_start: ~p ~p", [Err, erlang:get_stacktrace()])
+    end.

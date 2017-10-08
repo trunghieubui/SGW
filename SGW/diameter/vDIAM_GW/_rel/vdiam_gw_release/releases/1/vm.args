@@ -1,0 +1,5 @@
+-name vdiam_gw@29.19.19.19
+-setcookie vEPC
+-heart
+-nm_server vNM_EPC@172.16.29.154
+

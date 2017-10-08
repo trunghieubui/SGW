@@ -1,0 +1,58 @@
+  4308281.450            wireshark version                 = 1.12.10
+  4308281.460   10       wsgd generation data :
+  4308281.460            - wireshark compilation version   = 1.12.5
+  4308281.460            - WIRESHARK_VERSION_NUMBER        = 11200
+  4308281.460            - compilation date                = Oct 24 2015
+  4308281.460            - compiler                        = gcc 4
+  4308281.460            get_progfile_dir     = /usr/sbin
+  4308281.460            get_plugin_dir       = /usr/lib64/wireshark/plugins
+  4308281.460            get_datafile_dir     = /usr/share/wireshark
+  4308281.460            get_systemfile_dir   = /etc
+  4308281.460            get_profiles_dir     = /root/.wireshark/profiles
+  4308281.460            get_persdatafile_dir = 
+  4308281.460            locale LC_ALL         = en_US.UTF-8
+  4308281.460            locale LC_COLLATE     = en_US.UTF-8
+  4308281.460            locale LC_CTYPE       = en_US.UTF-8
+  4308281.460            locale LC_MONETARY    = en_US.UTF-8
+  4308281.460            locale LC_NUMERIC     = en_US.UTF-8
+  4308281.460            locale LC_TIME        = en_US.UTF-8
+  4308281.460      Enter cpp_proto_register_generic 
+  4308281.460      Enter get_files_in_dir dir_name=/root/.wireshark/profiles  begin_file_name=  end_file_name=.wsgd
+E 4308281.460            dir /root/.wireshark/profiles not found
+  4308281.460      Leave get_files_in_dir
+  4308281.460      Enter get_files_in_dir dir_name=  begin_file_name=  end_file_name=.wsgd
+E 4308281.460            dir  not found
+  4308281.460      Leave get_files_in_dir
+  4308281.460      Enter get_files_in_dir dir_name=/usr/share/wireshark  begin_file_name=  end_file_name=.wsgd
+  4308281.460      Leave get_files_in_dir
+  4308281.460      Enter get_files_in_dir dir_name=/usr/lib64/wireshark/plugins  begin_file_name=  end_file_name=.wsgd
+  4308281.460      Leave get_files_in_dir
+  4308281.470   10 Enter set_max_nb_of_protocol_data 2
+  4308281.470      Leave set_max_nb_of_protocol_data
+  4308281.470      Enter cpp_proto_register_generic wsgd_file_name=/usr/lib64/wireshark/plugins/msg_internal.wsgd
+  4308281.470      Enter read_file_wsgd /usr/lib64/wireshark/plugins/msg_internal.wsgd
+  4308281.480   10       PROTONAME = Msg_Internal Protocol
+  4308281.480            PROTOSHORTNAME = Msg_Internal
+  4308281.480            PROTOABBREV = msg_internal
+  4308281.480            PARENT_SUBFIELD = udp.port
+  4308281.480            MSG_HEADER_TYPE = T_msg_header_type_wsgd
+  4308281.480            MSG_ID_FIELD_NAME = MsgCode
+  4308281.480            MSG_TITLE = Msg_Title
+  4308281.480            MSG_TOTAL_LENGTH = LengthOfMsg
+  4308281.480            MSG_MAIN_TYPE = T_msg_switch(MsgCode)
+  4308281.490   10 Leave read_file_wsgd
+  4308281.490      Leave cpp_proto_register_generic
+  4308281.490      Enter cpp_proto_register_generic wsgd_file_name=/usr/lib64/wireshark/plugins/ga_interface.wsgd
+  4308281.490      Enter read_file_wsgd /usr/lib64/wireshark/plugins/ga_interface.wsgd
+  4308281.500   10       PROTONAME = Ga_Interface Protocol
+  4308281.500            PROTOSHORTNAME = Ga_Interface
+  4308281.500            PROTOABBREV = ga_interface
+  4308281.500            PARENT_SUBFIELD = tcp.port
+  4308281.500            MSG_HEADER_TYPE = T_msg_header_type_wsgd
+  4308281.500            MSG_ID_FIELD_NAME = MsgCode
+  4308281.500            MSG_TITLE = Msg_Title
+  4308281.500            MSG_TOTAL_LENGTH = LengthOfMsg
+  4308281.500            MSG_MAIN_TYPE = T_msg_switch(MsgCode)
+  4308281.510   10 Leave read_file_wsgd
+  4308281.510      Leave cpp_proto_register_generic
+  4308281.510      Leave cpp_proto_register_generic

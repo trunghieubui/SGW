@@ -1,0 +1,177 @@
+2017-07-28 12:13:01.057 [error] <0.713.0> ** Node 'vgtpc_gw@36.36.36.90' not responding **
+** Removing (timedout) connection **
+2017-07-29 10:26:11.476 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 10:57:31.884 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 11:01:41.911 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 11:13:21.981 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 11:25:02.051 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 11:33:52.104 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 11:38:02.129 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 11:40:32.144 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:09:43.050 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:09:43.050 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:15:33.085 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:15:33.085 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:23:13.141 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:25:23.163 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:29:13.186 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 14:31:23.200 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 15:59:23.748 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 16:26:23.912 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 16:54:24.092 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:14:34.309 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:21:24.350 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:27:14.385 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:30:44.410 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:36:04.442 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:39:04.460 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:40:14.467 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:43:14.485 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:46:24.504 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:48:04.514 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:52:14.571 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 17:56:54.611 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 18:00:25.000 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-29 18:00:35.004 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 14:37:52.590 [error] <0.686.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 14:40:02.605 [error] <0.686.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 14:43:02.623 [error] <0.686.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 14:47:16.255 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 14:51:16.320 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 14:56:46.359 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:01:31.189 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:03:31.202 [error] <0.688.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 15:11:02.822 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:14:27.713 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:18:37.738 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:23:17.775 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:27:58.855 [error] <0.710.0> [DIAM_GW] diam_handler_in:55- Node PGWPCP 'vpgwcp1@36.36.36.90' is died, can not send msg to PGWCP
+2017-07-31 15:28:05.831 [error] <0.727.0> [DIAM_GW] diam_callback:102- Error: timeout
+2017-07-31 15:30:02.863 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:31:12.875 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 15:33:44.634 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 15:35:14.643 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 16:01:43.360 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 16:04:23.379 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 16:05:03.287 [error] <0.741.0> ** Node 'vpgwcp2@36.36.36.80' not responding **
+** Removing (timedout) connection **
+2017-07-31 16:06:43.393 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 16:49:03.132 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-31 17:03:13.248 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp2@36.36.36.80', delete from tbl_diam_gw_node
+2017-07-31 17:03:43.124 [error] <0.825.0> ** Node 'vpgwcp2@36.36.36.80' not responding **
+** Removing (timedout) connection **
+2017-08-01 15:27:36.769 [error] <0.918.0> [DIAM_GW] diam_callback:102- Error: timeout
+2017-08-01 15:37:20.136 [error] <0.3119.0> [DIAM_GW] diam_callback:102- Error: timeout
+2017-08-01 15:41:33.233 [error] <0.3613.0> [DIAM_GW] diam_callback:102- Error: timeout
+2017-08-01 15:50:44.697 [error] <0.5701.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-08-01 15:51:43.620 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-08-01 15:54:17.683 [error] <0.1207.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-08-01 15:57:22.292 [error] <0.1961.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-08-01 16:26:18.603 [error] <0.8967.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-08-01 16:51:24.814 [error] <0.14203.0> [DIAM_GW] diam_callback:102- Error: timeout
+2017-08-01 17:01:27.576 [error] <0.696.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-08-01 17:14:27.657 [error] <0.696.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-08-01 17:35:27.818 [error] <0.696.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-08-01 17:39:07.843 [error] <0.696.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-08-01 17:42:57.876 [error] <0.696.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-08-01 17:47:57.910 [error] <0.696.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-06 10:21:34.788 [error] <0.692.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-06 10:25:34.812 [error] <0.692.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-06 10:29:04.838 [error] <0.692.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-06 10:33:04.862 [error] <0.692.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-09 14:34:00.838 [error] <0.701.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-09 14:45:12.868 [error] <0.4508.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 14:45:30.907 [error] <0.701.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-09 15:01:06.645 [error] <0.8322.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:02:06.646 [error] <0.8564.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:03:06.653 [error] <0.8806.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:04:06.652 [error] <0.9048.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:05:06.656 [error] <0.9286.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:06:06.656 [error] <0.9528.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:07:06.658 [error] <0.9770.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:08:06.658 [error] <0.10012.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:09:06.661 [error] <0.10254.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:10:06.662 [error] <0.10496.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:11:06.661 [error] <0.10738.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:12:06.663 [error] <0.10980.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:13:06.665 [error] <0.11222.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:14:06.665 [error] <0.11464.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:15:06.667 [error] <0.11706.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:16:06.667 [error] <0.11948.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:17:06.667 [error] <0.12190.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:18:06.668 [error] <0.12432.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:19:06.669 [error] <0.12674.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:20:06.670 [error] <0.12916.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:21:06.672 [error] <0.13158.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:22:06.674 [error] <0.13400.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:23:06.674 [error] <0.13642.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:24:06.676 [error] <0.13884.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:25:06.677 [error] <0.14126.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:26:06.677 [error] <0.14368.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:27:06.678 [error] <0.14610.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:28:06.679 [error] <0.14852.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:29:06.681 [error] <0.15094.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:30:06.683 [error] <0.15332.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:31:06.682 [error] <0.15574.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:32:06.682 [error] <0.15816.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:33:06.686 [error] <0.16058.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:34:06.684 [error] <0.16300.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:35:06.687 [error] <0.16542.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:36:06.688 [error] <0.16784.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:37:06.689 [error] <0.17026.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:38:06.690 [error] <0.17268.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:39:06.690 [error] <0.17510.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:40:06.691 [error] <0.17752.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:41:06.692 [error] <0.17994.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:42:06.692 [error] <0.18236.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:43:06.693 [error] <0.18474.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:44:06.694 [error] <0.18716.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:45:06.697 [error] <0.18958.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:46:06.697 [error] <0.19200.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:47:06.699 [error] <0.19442.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:48:06.699 [error] <0.19684.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:49:06.702 [error] <0.19926.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:50:06.701 [error] <0.20168.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:51:06.701 [error] <0.20410.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:52:06.702 [error] <0.20652.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:53:06.704 [error] <0.20894.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:54:06.706 [error] <0.21136.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:55:06.708 [error] <0.21378.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-09 15:56:06.707 [error] <0.21620.0> ** Connection attempt from disallowed node 'vpgwcp1@36.36.36.90' ** 
+2017-09-27 17:40:06.037 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-27 17:44:02.149 [error] <0.698.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 08:42:39.742 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 08:50:49.791 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 09:13:29.979 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 09:15:39.993 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 09:36:10.174 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 10:41:10.577 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 10:53:10.649 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 10:58:30.681 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 11:01:00.696 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 11:04:30.717 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 11:28:10.906 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-09-28 11:45:11.033 [error] <0.699.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-10-04 16:05:44.017 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1567638246;4;vpgwcp1@19.19.19.19",0
+2017-10-04 16:06:58.111 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_seesion;1559632244;3;vEMU_PCRF@29.19.19.130",0
+2017-10-04 16:07:43.256 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_seesion;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-04 16:08:08.232 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-04 16:13:44.390 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 08:26:33.197 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 08:28:28.958 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 08:30:07.680 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 09:23:32.912 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 09:26:40.520 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 09:27:25.618 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 09:42:23.558 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 09:50:45.405 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 09:58:02.788 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 10:05:47.193 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 10:21:31.169 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 11:05:46.771 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 11:41:04.900 [error] <0.720.0> [DIAM_GW] diam_handler_in:54- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 15:51:14.883 [error] <0.720.0> [DIAM_GW] diam_handler_in:61- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 15:55:29.044 [error] <0.720.0> [DIAM_GW] diam_handler_in:61- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 16:27:24.209 [error] <0.720.0> [DIAM_GW] diam_handler_in:61- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 16:33:30.129 [error] <0.720.0> [DIAM_GW] diam_handler_in:61- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0
+2017-10-05 17:10:32.357 [error] <0.720.0> [DIAM_GW] diam_handler_in:61- Not found mappingNode with Key="diam_session;1559632244;3;vemu_pcrf@29.19.19.130",0

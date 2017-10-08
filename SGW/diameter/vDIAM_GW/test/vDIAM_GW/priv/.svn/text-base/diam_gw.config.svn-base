@@ -1,0 +1,19 @@
+# For common
+DIAM_GX_BIND_IP_ADDR                           = 149.149.149.100;
+DIAM_GY_BIND_IP_ADDR                           = 149.149.149.100;
+DIAM_BIND_PORT                                 = 3868;
+DIAM_TRANSPORT_GX_TCP                          = 0;
+DIAM_TRANSPORT_GY_TCP                          = 0;
+ORIGIN_REALM                                   = epc.mnc004.mcc452.3gppnetwork.org;
+ORIGIN_HOST_GX                                 = vpgwcp.epc.mnc004.mcc452.3gppnetwork.org;
+ORIGIN_HOST_GY                                 = vpgwcp.epc.mnc004.mcc452.3gppnetwork.org;
+
+# For other node
+PCRF_IP_ADDR                                   = 149.149.149.110;
+PCRF_PORT                                      = 3868;
+
+OCS_IP_ADDR                                    = 149.149.149.111;
+OCS_PORT                                       = 3868;
+
+# For OAM
+OAM_SERVER                                     = vNM@127.0.0.1;

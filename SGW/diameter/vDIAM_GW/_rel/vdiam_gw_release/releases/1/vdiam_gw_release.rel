@@ -1,0 +1,13 @@
+{release,{"vdiam_gw_release","1"},
+         {erts,"7.3"},
+         [{stdlib,"2.8"},
+          {kernel,"4.2"},
+          {compiler,"6.0.3"},
+          {syntax_tools,"1.7"},
+          {goldrush,"0.1.8"},
+          {lager,"3.2.0"},
+          {diameter,"1.11.2"},
+          {vdiam_gw,"1.0"},
+          {runtime_tools,"1.9.3"},
+          {observer,"2.1.2"},
+          {wx,"1.6.1"}]}. 

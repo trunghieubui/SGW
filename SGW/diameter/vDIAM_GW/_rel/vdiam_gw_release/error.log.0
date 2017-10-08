@@ -1,0 +1,42 @@
+2017-07-21 11:16:02.308 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp@118.118.118.90', delete from tbl_diam_gw_node
+2017-07-21 11:23:02.379 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp@118.118.118.90', delete from tbl_diam_gw_node
+2017-07-21 11:23:17.235 [error] <0.702.0> ** Node 'vpgwcp@118.118.118.90' not responding **
+** Removing (timedout) connection **
+2017-07-21 16:15:35.436 [error] <0.751.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-21 16:16:52.929 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-21 16:18:36.327 [error] <0.948.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-21 16:36:02.436 [error] <0.2638.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 08:59:55.248 [error] <0.4611.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 10:11:28.795 [error] <0.11946.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 10:16:03.576 [error] <0.12455.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 10:17:56.389 [error] <0.12663.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 10:18:33.139 [error] <0.12741.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 10:18:53.889 [error] <0.12791.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 10:28:05.667 [error] <0.689.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-24 10:58:25.854 [error] <0.689.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-24 15:41:17.594 [error] <0.689.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-24 16:28:04.779 [error] <0.16595.1> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 16:29:08.060 [error] <0.16718.1> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 16:47:09.405 [error] <0.18642.1> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 16:48:43.123 [error] <0.18826.1> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-24 17:06:44.157 [error] <0.710.0> [DIAM_GW] diam_handler_in:55- Node PGWPCP 'vpgwcp1@36.36.36.90' is died, can not send msg to PGWCP
+2017-07-24 17:06:46.389 [error] <0.724.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-25 10:57:09.063 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-25 10:57:28.942 [error] <0.715.0> ** Node 'vdata_gw@36.36.36.90' not responding **
+** Removing (timedout) connection **
+2017-07-25 10:57:28.942 [error] <0.718.0> ** Node 'vgtpc_gw@36.36.36.90' not responding **
+** Removing (timedout) connection **
+2017-07-25 14:07:58.957 [error] <0.710.0> [DIAM_GW] diam_handler_in:55- Node PGWPCP 'vpgwcp1@36.36.36.90' is died, can not send msg to PGWCP
+2017-07-25 14:08:01.204 [error] <0.725.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-25 14:58:59.214 [error] <0.691.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-25 15:04:14.023 [error] <0.6100.0> ** Node 'vpgwcp1@36.36.36.90' not responding **
+** Removing (timedout) connection **
+2017-07-25 15:04:19.252 [error] <0.691.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-27 15:22:23.582 [error] <0.710.0> [DIAM_GW] diam_handler_in:55- Node PGWPCP 'vpgwcp1@36.36.36.90' is died, can not send msg to PGWCP
+2017-07-27 15:22:25.837 [error] <0.725.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-27 15:24:13.427 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-27 15:39:03.021 [error] <0.710.0> [DIAM_GW] diam_handler_in:55- Node PGWPCP 'vpgwcp1@36.36.36.90' is died, can not send msg to PGWCP
+2017-07-27 15:39:05.274 [error] <0.724.0> [DIAM_GW] diam_callback:102- Error: failover
+2017-07-27 15:44:03.009 [error] <0.690.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-27 15:51:31.143 [error] <0.686.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
+2017-07-27 15:59:11.191 [error] <0.686.0> [DIAM_GW] node_check:57- Timeout with PGWPCP='vpgwcp1@36.36.36.90', delete from tbl_diam_gw_node
