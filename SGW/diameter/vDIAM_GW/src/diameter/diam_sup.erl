@@ -87,25 +87,24 @@ init([]) ->
     SupFlags = {RestartStrategy, MaxRestarts, MaxSecondsBetweenRestarts},
 
 
-%%    ListPool = lists:seq(1, ?TOTAL_SUPERVISOR_POOL_DIAM),
-%%    PmipReceiveHandle = lists:foldl(fun(Inst, HList) ->
-%%        Name = get_diam_name(Inst),
-%%        io:format("process: ~p~n",[Name]),
-%%        [{ok, {SupFlags,{Name,{pmip_receive_handle, start_link, [Name]},
-%%            Restart,
-%%            Shutdown,
-%%            Type, [pmip_receive_handle]}}} | HList]
-%%                                end, [], ListPool).
+    ListPool = lists:seq(1, ?TOTAL_SUPERVISOR_POOL_DIAM),
+    List_Diam_Sup = lists:foldl(fun(Inst, HList) ->
+        Name = get_diam_name(Inst),
+        [{Name,{pmip_receive_handle, start_link, [Name]},
+            Restart,
+            Shutdown,
+            Type, [pmip_receive_handle]} | HList]
+                                end, [], ListPool),
 
-    {Key,A,B} = erlang:timestamp(),
-    Name = get_diam_name(B),
-    io:format("Name : ~p~n", [Name]),
-%%    Diam_Handler = {diam_handler_in, {diam_handler_in, start_link, []},
-%%        Restart, Shutdown, Type, [diam_handler_in]},
-    PmipReceiveHandle = {pmip, {pmip_receive_handle, start_link, [pmip]},
-        Restart, Shutdown, Type, [pmip_receive_handle]},
+%%    {Key,A,B} = erlang:timestamp(),
+%%    Name = get_diam_name(B),
+%%    io:format("Name : ~p~n", [Name]),
+%%%%    Diam_Handler = {diam_handler_in, {diam_handler_in, start_link, []},
+%%%%        Restart, Shutdown, Type, [diam_handler_in]},
+%%    PmipReceiveHandle = {pmip, {pmip_receive_handle, start_link, [pmip]},
+%%        Restart, Shutdown, Type, [pmip_receive_handle]},
 %%    PmipReceiveHandle = {Name, {pmip_receive_handle, start_link, []}, permanent, 5000, worker, [pmip_receive_handle]},
-    {ok, {SupFlags, [PmipReceiveHandle]}}.
+    {ok, {SupFlags, [List_Diam_Sup]}}.
 %%    {ok, {SupFlags, []}}.
 
 
