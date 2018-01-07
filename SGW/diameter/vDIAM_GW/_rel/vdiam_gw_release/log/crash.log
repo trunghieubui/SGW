@@ -1498,3 +1498,19 @@ ERROR: Could not find 'wxe_driver.so' in: /home/hieubt11/SGW_CP/Code_/vDIAM_GW/_
     stack_size: 27
     reductions: 115
   neighbours:
+2017-10-09 08:33:28 =CRASH REPORT====
+  crasher:
+    initial call: application_master:init/4
+    pid: <0.663.0>
+    registered_name: []
+    exception exit: {{bad_return,{{vdiam_gw_app,start,[normal,[]]},ok}},[{application_master,init,4,[{file,"application_master.erl"},{line,134}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,240}]}]}
+    ancestors: [<0.662.0>]
+    messages: [{'EXIT',<0.664.0>,normal}]
+    links: [<0.662.0>,<0.586.0>]
+    dictionary: []
+    trap_exit: true
+    status: running
+    heap_size: 376
+    stack_size: 27
+    reductions: 115
+  neighbours:

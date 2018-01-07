@@ -1,4 +1,4 @@
-%% script generated at {2017,10,8} {6,23,58}
+%% script generated at {2017,10,9} {8,33,19}
 {script,
     {"vdiam_gw_release","1"},
     [{preLoaded,
@@ -68,7 +68,8 @@
          [diameter,diameter_app,diameter_callback,diameter_capx,
           diameter_codec,diameter_config,diameter_dict,diameter_etcp,
           diameter_etcp_sup,diameter_gen_acct_rfc6733,
-          diameter_gen_base_accounting,diameter_gen_base_rfc3588,
+          diameter_gen_base_accounting,diameter_gen_base_gx,
+          diameter_gen_base_gy,diameter_gen_base_rfc3588,
           diameter_gen_base_rfc6733,diameter_gen_relay,diameter_lib,
           diameter_misc_sup,diameter_peer,diameter_peer_fsm,
           diameter_peer_fsm_sup,diameter_reg,diameter_sctp,diameter_sctp_sup,
@@ -352,7 +353,8 @@
                         diameter_transport_sup,diameter_gen_base_rfc3588,
                         diameter_gen_base_rfc6733,
                         diameter_gen_base_accounting,
-                        diameter_gen_acct_rfc6733,diameter_gen_relay]},
+                        diameter_gen_acct_rfc6733,diameter_gen_relay,
+                        diameter_gen_base_gx,diameter_gen_base_gy]},
                    {registered,
                        [diameter_config,diameter_peer,diameter_reg,
                         diameter_stats,diameter_sync]},

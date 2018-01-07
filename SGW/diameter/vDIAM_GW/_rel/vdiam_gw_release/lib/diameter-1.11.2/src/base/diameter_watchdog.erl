@@ -399,8 +399,12 @@ transition({open = Key, TPid, _Hosts, T},
                      config = #config{suspect = OS,
                                       okay = RO}}
            = S) ->
-    case RO of
+%%     util:log("open2******************************: ~w", [RO]),
+%% modify by tulm4 (fix value R0 = 0 to up peer right after received CEA success)
+    TR0 = 0,
+    case TR0 of
         0 ->  %% non-standard: skip REOPEN
+%%             util:log("open5******************************", []),
             set_watchdog(S#watchdog{status = okay,
                                     num_dwa = OS});
         _ ->

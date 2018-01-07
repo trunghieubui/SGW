@@ -1,7 +1,7 @@
 -module(diameter_dict_parser).
 -export([parse/1, parse_and_scan/1, format_error/1]).
 
--file("/net/isildur/ldisk/daily_build/18_prebuild_opu_o.2016-03-14_21/otp_src_18/bootstrap/lib/parsetools/include/yeccpre.hrl", 0).
+-file("/home/anhnv/Downloads/otp_src_18.3/bootstrap/lib/parsetools/include/yeccpre.hrl", 0).
 %%
 %% %CopyrightBegin%
 %%

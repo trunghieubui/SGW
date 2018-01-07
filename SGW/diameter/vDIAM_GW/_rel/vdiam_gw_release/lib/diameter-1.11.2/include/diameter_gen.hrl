@@ -87,12 +87,14 @@ encode_avps(Name, Rec) ->
         list_to_binary(encode(Name, Rec))
     catch
         throw: {?MODULE, Reason} ->
+			io:format("[Error]****************************************Detail Reason: ~w~n", [Reason]),
             diameter_lib:log({encode, error},
                              ?MODULE,
                              ?LINE,
                              {Reason, Name, Rec}),
             erlang:error(list_to_tuple(Reason ++ [Name]));
         error: Reason ->
+			io:format("[Error]****************************************Detail Reason: ~w~n", [Reason]),
             Stack = erlang:get_stacktrace(),
             diameter_lib:log({encode, failure},
                              ?MODULE,
@@ -189,7 +191,22 @@ decode_avps(Name, Recs) ->
         = lists:foldl(fun(T,A) -> decode(Name, T, A) end,
                       {[], {newrec(Name), []}},
                       Recs),
-    {Rec, Avps, Failed ++ missing(Rec, Name, Failed)}.
+%%added by tulm4
+    if 
+		Failed /= [] ->
+		NoE = [], 	
+	    [TF|_] = Failed,
+	    CoF = element(1, TF),
+%%  	    util:log("DB33:********~w * ~w ~n", [TF, CoF]),
+		   if 
+		   (CoF =:= 5008) orelse (CoF =:= 5001) orelse (CoF =:= 5009) -> {Rec, Avps, NoE ++ missing(Rec, Name, NoE)};
+	       true -> {Rec, Avps, Failed ++ missing(Rec, Name, Failed)}
+	       end;
+	    true -> {Rec, Avps, Failed ++ missing(Rec, Name, Failed)}
+	end.
+    
+%%     {Rec, Avps, Failed ++ missing(Rec, Name, Failed)}.
+
 %% Append 5005 errors so that errors are reported in the order
 %% encountered. Failed-AVP should typically contain the first
 %% encountered error accordg to the RFC.
@@ -260,6 +277,13 @@ empty_avp(Name) ->
 %% decode/3
 
 decode(Name, #diameter_avp{code = Code, vendor_id = Vid} = Avp, Acc) ->
+%%added by tulm4 
+%% 	io:format("DB31:********~w ~w ~n", [Name, Code]),
+%% 	case Code of
+%% 		1619 -> nop;
+%% 		_ -> decode(Name, avp_name(Code, Vid), Avp, Acc)
+%% 	end.
+
     decode(Name, avp_name(Code, Vid), Avp, Acc).
 
 %% decode/4

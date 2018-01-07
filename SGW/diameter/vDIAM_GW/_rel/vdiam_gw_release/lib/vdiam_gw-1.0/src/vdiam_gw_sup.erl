@@ -32,11 +32,11 @@ init([]) ->
     Shutdown = 5000,
     Type = supervisor,
 
-    Diam_Pool_Sup = {diam_pool_sup, {diam_pool_sup, start_link, []},
+    Diam_Pool_Sup = {diam_sup, {diam_sup, start_link, []},
         Restart,
         Shutdown,
         Type,
-        [diam_pool_sup]},
+        [diam_sup]},
 
 %%    Imp_Pool_Sup = {imp_pool_sup, {imp_pool_sup, start_link, []},
 %%        Restart,
