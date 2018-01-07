@@ -1,0 +1,10 @@
+how to use git
+	git init  // -> initial a git
+	git clone (link to git)
+	git add . // -> add more file in git
+	git commit -a -m "comment"
+	git push -u origin master
+
+to fix this file
+	git pull -u origin master
+	git push -u origin master
